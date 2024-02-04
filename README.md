@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kristóf Tischler and I'm a developer, from Hungary</h2>
+<h2 align="left">Hi 👋! My name is Kristóf Tischler and I'm a developer from Hungary</h2>
 
 ###
 
